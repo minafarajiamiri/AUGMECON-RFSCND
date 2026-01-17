@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below and (optionally) this software release."
+title: "Code for: Multi-objective optimization of renewable fuel supply chains regarding cost, land use, and water use"
+type: software
+authors:
+  - family-names: Farajiamiri
+    given-names: Mina
+repository-code: "https://github.com/<your-username>/<your-repo>"
+url: "https://github.com/<your-username>/<your-repo>"
+license: MIT
+version: 1.0.0
+date-released: 2026-01-17
+
+preferred-citation:
+  type: article
+  title: "Multi-objective optimization of renewable fuel supply chains regarding cost, land use, and water use"
+  authors:
+    - family-names: Farajiamiri
+      given-names: Mina
+    - family-names: Meyer
+      given-names: "Jörn-Christian"
+    - family-names: Walther
+      given-names: Grit
+  journal: "Applied Energy"
+  volume: 349
+  year: 2023
+  publisher: Elsevier
+  doi: "10.1016/j.apenergy.2023.121652"
