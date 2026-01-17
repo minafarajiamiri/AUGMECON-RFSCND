@@ -1,0 +1,8 @@
+Pareto:
+*** Use the pay-off matrix data from the optimization "model" to run the Epsilon constraint method to achieve the Pareto curve ***
+
+tradeoffs:
+*** Visualize two by two trade-offs ***
+
+plot:
+*** Visualize Pareto curve ***
