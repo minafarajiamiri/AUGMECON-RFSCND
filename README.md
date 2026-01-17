@@ -20,3 +20,6 @@ Augmented ε-Constraint Method for Multi-Objective Renewable Fuel Supply Chain D
   note    = {MIT License}
 }
 
+
+## License
+This project is licensed under the MIT License — see the `LICENSE` file.
