@@ -1,4 +1,5 @@
 # AUGMECON-RFSCND
+[Multi-objective optimization of renewable fuel supply chains regarding cost, land use, and water use](https://www.sciencedirect.com/science/article/pii/S0306261923010164)
 Augmented ε-Constraint Method for Multi-Objective Renewable Fuel Supply Chain Design: Cost, Land Use, and Water Use Objectives
 
 @article{Farajiamiri2023AppliedEnergy,
